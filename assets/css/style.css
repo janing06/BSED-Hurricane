@@ -48,7 +48,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: rgb(255, 57, 57);
+  background: #ff3939;
   border-radius: 20px;
   border: 0.1px solid black;
   width: 40px;
@@ -72,7 +72,7 @@ h6 {
 --------------------------------------------------------------*/
 #topbar {
   background: #0f0f0f;
-  border-bottom: 1px solid rgb(255, 57, 57);
+  border-bottom: 1px solid #ff3939;
   font-size: 14px;
   padding: 0;
   height: 40px;
@@ -138,7 +138,7 @@ h6 {
 }
 
 #header #logo h1 a span {
-  color: rgb(255, 57, 57);
+  color: #ff3939;
 }
 
 #header #logo img {
@@ -211,7 +211,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color:  rgb(255, 57, 57);
+  color:  #ff3939;
 }
 
 /**
@@ -318,12 +318,12 @@ h6 {
 #hero .hero-content h2 {
   color: white;
   margin-bottom: 30px;
-  font-size: 64px;
+  font-size: 85px;
   font-weight: 700;
 }
 
 #hero .hero-content h2 span {
-  color:  rgb(255, 57, 57);
+  color:  #ff3939;
   text-decoration: underline;
 }
 
@@ -504,7 +504,7 @@ section {
 }
 }
 #about h1 {
-  color: rgb(253, 116, 116);
+  color: #ff3939;
   font-weight: 700;
   font-size: 60px;
   font-family: "Raleway", sans-serif;
@@ -619,10 +619,10 @@ section {
 }
 
 .services .card:hover .card-body{
-  border-color: rgb(255, 57, 57);
+  border-color: #ff3939;
 }
 .services .card:hover .card-body .card-title {
-  color: rgb(255, 57, 57);
+  color: #ff3939;
 }
 
 /* Call To Action Section
@@ -634,7 +634,7 @@ section {
 }
 
 #call-to-action .cta-title {
-  color: rgb(255, 57, 57);
+  color: #ff3939;
   font-size: 28px;
   font-weight: 700;
 }
@@ -893,7 +893,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: rgb(255, 57, 57);
+  color: #ff3939;
 }
 
 .faq .faq-list .icon-show,
@@ -918,7 +918,7 @@ section {
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: rgb(255, 57, 57);
+  color: #ff3939;
 }
 
 .faq .faq-list a.collapsed .icon-show {

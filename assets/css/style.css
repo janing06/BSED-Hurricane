@@ -558,7 +558,7 @@ section {
   padding-bottom: 40px;
 }
 .services h1 {
-  color: black;
+  color: rgb(255, 255, 255);
   -webkit-text-stroke: 0.3px #ffffff;
   font-weight: 700;
   font-size: 50px;

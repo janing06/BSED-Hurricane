@@ -997,10 +997,13 @@ section {
   color: white;
   margin: 0 10px;
   display: inline-block;
+  background-color: #151515;
+  border-radius: 50%;
+  padding: 5px;
 }
 
 .team .member .social a:hover {
-  color: gold;
+  color: rgb(241, 101, 101);
 }
 
 .team .member .social i {
@@ -1017,7 +1020,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #ff3939;
+  color: #ffffff;
 }
 
 .team .member .member-info span {
